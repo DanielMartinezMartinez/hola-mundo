@@ -1,0 +1,1 @@
+texto como contenido del archivo 1 de pruebas de Git
